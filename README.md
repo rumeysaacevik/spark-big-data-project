@@ -1,11 +1,11 @@
-# 🔥 Spark Big Data Project
+#  Spark Big Data Project
 
 This project is a **big data analysis application** developed using **Apache Spark** as part of an academic coursework.
 It focuses on large-scale data processing, SQL-based analysis, and machine learning workflows using distributed computing concepts.
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 * Apache Spark
 * PySpark
@@ -15,7 +15,7 @@ It focuses on large-scale data processing, SQL-based analysis, and machine learn
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 spark-big-data-project/
@@ -27,7 +27,7 @@ spark-big-data-project/
 
 ---
 
-## 🧠 Key Concepts Covered
+##  Key Concepts Covered
 
 * Distributed data processing with Apache Spark
 * DataFrame and RDD operations
@@ -38,7 +38,7 @@ spark-big-data-project/
 
 ---
 
-## ⚙️ Setup & Execution
+##  Setup & Execution
 
 1. Install Apache Spark
 2. Ensure Python and PySpark are properly configured
@@ -47,7 +47,7 @@ spark-big-data-project/
 
 ---
 
-## 🧪 Experiments & Analysis
+##  Experiments & Analysis
 
 The project includes multiple experiments such as:
 
@@ -59,7 +59,7 @@ The project includes multiple experiments such as:
 
 ---
 
-## ⚠️ Notes
+##  Notes
 
 * Datasets are included for educational purposes
 * Computations are designed for Spark local mode
@@ -67,11 +67,11 @@ The project includes multiple experiments such as:
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project demonstrates practical usage of **Apache Spark** for scalable data analysis and machine learning tasks.
 It highlights the advantages of distributed computing when working with large datasets in real-world scenarios.
 
 ---
 
-📌 *This project was developed for educational purposes.*
+ *This project was developed for educational purposes.*
